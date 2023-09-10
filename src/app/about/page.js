@@ -25,19 +25,19 @@ const About = () => {
         <h2>Our Leaders</h2>
         <div className={styles.teamMemberflex} >
           <div className={styles.teamMember}>
-          <Image src="/images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
+          <Image src="./images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
             <p>Rose Dawson</p>
           </div>
           <div className={styles.teamMember}>
-          <Image src="/images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
+          <Image src="./images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
             <p>Rose Dawson</p>
           </div>
           <div className={styles.teamMember}>
-          <Image src="/images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
+          <Image src="./images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
             <p>Rose Dawson</p>
           </div>
           <div className={styles.teamMember}>
-          <Image src="/images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
+          <Image src="./images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
             <p>Rose Dawson</p>
           </div>
         </div>
@@ -47,19 +47,19 @@ const About = () => {
         <h2>Our Team</h2>
         <div className={styles.teamMemberflex} >
           <div className={styles.teamMember}>
-          <Image src="/images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
+          <Image src="./images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
             <p>Rose Dawson</p>
           </div>
           <div className={styles.teamMember}>
-          <Image src="/images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
+          <Image src="./images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
             <p>Rose Dawson</p>
           </div>
           <div className={styles.teamMember}>
-          <Image src="/images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
+          <Image src="./images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
             <p>Rose Dawson</p>
           </div>
           <div className={styles.teamMember}>
-          <Image src="/images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
+          <Image src="./images/Female Avatar.png" alt='logo' width={100} height={100} className='size-logo'></Image>
             <p>Rose Dawson</p>
           </div>
         </div>
