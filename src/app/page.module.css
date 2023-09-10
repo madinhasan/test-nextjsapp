@@ -1,0 +1,134 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hero {
+  background-color: #333;
+  color: #fff;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  text-align: center;
+
+}
+
+.features {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 2rem;
+  max-width: 1200px;
+    margin: 0 auto;
+}
+
+.feature {
+  /* flex: 0 1 calc(33.33% - 1rem); */
+  background-color: #f4f4f4;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+  width: 500px;
+}
+
+.feature h2 {
+  font-size: 1.5rem;
+}
+
+.cta {
+  background-color: #ff5733;
+  color: #fff;
+  padding: 2rem;
+  margin-top: 2rem;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.cta h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.cta p {
+  font-size: 1.2rem;
+}
+
+.ctaButton {
+  background-color: #fff;
+  color: #ff5733;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin-top: 20px;
+  
+
+}
+
+.ctaButton:hover {
+  background-color: #ff8c66;
+  color: #fff;
+}
+
+
+/* about.module.css */
+
+.aboutContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.aboutHeading {
+  font-size: 2.5rem;
+  color: #333;
+}
+
+.aboutContent {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.aboutContent p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.aboutTeam {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.aboutTeam h2 {
+  font-size: 1.8rem;
+  color: #333;
+}
+
+.teamMember {
+  margin-top: 1rem;
+}
+
+.teamMember img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.teamMember p {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+.teamMemberflex {
+  display: flex;
+  justify-content: space-evenly;
+}
